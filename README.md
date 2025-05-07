@@ -12,6 +12,7 @@ No repositório existem 2 aplicativos:
 - AppAnalisePacotes: teste de análise e recebimento de pacotes
 
 #Divisão de tarefas
+
 Guilherme Saad:
 - Interfaces gráficas dos dois aplicativos;
 - pag Sobre;
