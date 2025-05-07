@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|c:\\users\\guilherme\\desktop\\ufu\\tempo real\\modulo1b\\str-main\\mod1b_swmockup\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|solutionrelative:mod1b_swmockup\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\mod1b_swmockup\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|solutionrelative:mod1b_swmockup\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|c:\\users\\guilherme\\desktop\\ufu\\tempo real\\modulo1b\\str-main\\mod1b_swmockup\\formdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|solutionrelative:mod1b_swmockup\\formdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|c:\\users\\guilherme\\desktop\\ufu\\tempo real\\modulo1b\\str-main\\mod1b_swmockup\\mu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|solutionrelative:mod1b_swmockup\\mu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|c:\\users\\guilherme\\desktop\\ufu\\tempo real\\modulo1b\\str-main\\mod1b_swmockup\\receptorbroadcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|solutionrelative:mod1b_swmockup\\receptorbroadcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|c:\\users\\guilherme\\desktop\\ufu\\tempo real\\modulo1b\\str-main\\mod1b_swmockup\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|solutionrelative:mod1b_swmockup\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\mod1b_swmockup\\formsobre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|solutionrelative:mod1b_swmockup\\formsobre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\mod1b_swmockup\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|solutionrelative:mod1b_swmockup\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\mod1b_swmockup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|solutionrelative:mod1b_swmockup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|c:\\users\\guilherme\\desktop\\ufu\\tempo real\\modulo1b\\str-main\\mod1b_swmockup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|solutionrelative:mod1b_swmockup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|c:\\users\\guilherme\\desktop\\ufu\\tempo real\\modulo1b\\str-main\\mod1b_swmockup\\formsobre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A96D6A-FDCF-4D60-A90B-9E7078D14AEF}|Mod1b_SWmockup\\Mod1b_SWmockup.csproj|solutionrelative:mod1b_swmockup\\formsobre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\FormDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Mod1b_SWmockup\\FormDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\FormDashboard.Designer.cs",
+              "RelativeToolTip": "Mod1b_SWmockup\\FormDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:53:18.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormCadastro.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\FormCadastro.cs",
+              "RelativeDocumentMoniker": "Mod1b_SWmockup\\FormCadastro.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\FormCadastro.cs [Projeto]",
+              "RelativeToolTip": "Mod1b_SWmockup\\FormCadastro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:20:35.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "Mod1b_SWmockup\\FormDashboard.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\FormDashboard.cs",
+              "RelativeToolTip": "Mod1b_SWmockup\\FormDashboard.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwBsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:13:29.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormSobre.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\FormSobre.cs",
+              "RelativeDocumentMoniker": "Mod1b_SWmockup\\FormSobre.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\FormSobre.cs [Projeto]",
+              "RelativeToolTip": "Mod1b_SWmockup\\FormSobre.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:31:30.17Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MU.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\MU.cs",
+              "RelativeDocumentMoniker": "Mod1b_SWmockup\\MU.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\MU.cs",
+              "RelativeToolTip": "Mod1b_SWmockup\\MU.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAGAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:44:30.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDashboard.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "Mod1b_SWmockup\\FormDashboard.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\FormDashboard.cs [Projeto]",
+              "RelativeToolTip": "Mod1b_SWmockup\\FormDashboard.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:11:06.447Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\Form1.cs",
+              "RelativeDocumentMoniker": "Mod1b_SWmockup\\Form1.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Mod1b_SWmockup\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:52:32.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormCadastro.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\FormCadastro.cs",
+              "RelativeDocumentMoniker": "Mod1b_SWmockup\\FormCadastro.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\FormCadastro.cs",
+              "RelativeToolTip": "Mod1b_SWmockup\\FormCadastro.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:25:08.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\Form1.cs",
+              "RelativeDocumentMoniker": "Mod1b_SWmockup\\Form1.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\Form1.cs",
+              "RelativeToolTip": "Mod1b_SWmockup\\Form1.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAADgv6AAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:12:37.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReceptorBroadcast.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\ReceptorBroadcast.cs",
+              "RelativeDocumentMoniker": "Mod1b_SWmockup\\ReceptorBroadcast.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\ReceptorBroadcast.cs",
+              "RelativeToolTip": "Mod1b_SWmockup\\ReceptorBroadcast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:22:34.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormSobre.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\FormSobre.cs",
+              "RelativeDocumentMoniker": "Mod1b_SWmockup\\FormSobre.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\STR-main\\Mod1b_SWmockup\\FormSobre.cs",
+              "RelativeToolTip": "Mod1b_SWmockup\\FormSobre.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:53:10.267Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

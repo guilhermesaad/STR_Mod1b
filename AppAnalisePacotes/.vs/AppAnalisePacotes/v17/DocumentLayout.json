@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\AppAnalisePacotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C762EE6-674B-4C2F-B440-8C18B4023B02}|AppAnalisePacotes\\AppAnalisePacotes.csproj|c:\\users\\guilherme\\desktop\\ufu\\tempo real\\modulo1b\\appanalisepacotes\\appanalisepacotes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C762EE6-674B-4C2F-B440-8C18B4023B02}|AppAnalisePacotes\\AppAnalisePacotes.csproj|solutionrelative:appanalisepacotes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C762EE6-674B-4C2F-B440-8C18B4023B02}|AppAnalisePacotes\\AppAnalisePacotes.csproj|c:\\users\\guilherme\\desktop\\ufu\\tempo real\\modulo1b\\appanalisepacotes\\appanalisepacotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C762EE6-674B-4C2F-B440-8C18B4023B02}|AppAnalisePacotes\\AppAnalisePacotes.csproj|solutionrelative:appanalisepacotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C762EE6-674B-4C2F-B440-8C18B4023B02}|AppAnalisePacotes\\AppAnalisePacotes.csproj|c:\\users\\guilherme\\desktop\\ufu\\tempo real\\modulo1b\\appanalisepacotes\\appanalisepacotes\\mu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C762EE6-674B-4C2F-B440-8C18B4023B02}|AppAnalisePacotes\\AppAnalisePacotes.csproj|solutionrelative:appanalisepacotes\\mu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C762EE6-674B-4C2F-B440-8C18B4023B02}|AppAnalisePacotes\\AppAnalisePacotes.csproj|C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\AppAnalisePacotes\\appanalisepacotes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C762EE6-674B-4C2F-B440-8C18B4023B02}|AppAnalisePacotes\\AppAnalisePacotes.csproj|solutionrelative:appanalisepacotes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C762EE6-674B-4C2F-B440-8C18B4023B02}|AppAnalisePacotes\\AppAnalisePacotes.csproj|c:\\users\\guilherme\\desktop\\ufu\\tempo real\\modulo1b\\appanalisepacotes\\appanalisepacotes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C762EE6-674B-4C2F-B440-8C18B4023B02}|AppAnalisePacotes\\AppAnalisePacotes.csproj|solutionrelative:appanalisepacotes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\AppAnalisePacotes\\AppAnalisePacotes\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AppAnalisePacotes\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\AppAnalisePacotes\\AppAnalisePacotes\\Form1.Designer.cs",
+              "RelativeToolTip": "AppAnalisePacotes\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T07:55:43.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MU.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\AppAnalisePacotes\\AppAnalisePacotes\\MU.cs",
+              "RelativeDocumentMoniker": "AppAnalisePacotes\\MU.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\AppAnalisePacotes\\AppAnalisePacotes\\MU.cs",
+              "RelativeToolTip": "AppAnalisePacotes\\MU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:12:17.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\AppAnalisePacotes\\AppAnalisePacotes\\Program.cs",
+              "RelativeDocumentMoniker": "AppAnalisePacotes\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\AppAnalisePacotes\\AppAnalisePacotes\\Program.cs",
+              "RelativeToolTip": "AppAnalisePacotes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T03:31:04.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\AppAnalisePacotes\\AppAnalisePacotes\\Form1.cs",
+              "RelativeDocumentMoniker": "AppAnalisePacotes\\Form1.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\AppAnalisePacotes\\AppAnalisePacotes\\Form1.cs",
+              "RelativeToolTip": "AppAnalisePacotes\\Form1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwLwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:01:19.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\AppAnalisePacotes\\AppAnalisePacotes\\Form1.cs",
+              "RelativeDocumentMoniker": "AppAnalisePacotes\\Form1.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\UFU\\tempo real\\modulo1b\\AppAnalisePacotes\\AppAnalisePacotes\\Form1.cs [Projeto]",
+              "RelativeToolTip": "AppAnalisePacotes\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T01:31:39.859Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
