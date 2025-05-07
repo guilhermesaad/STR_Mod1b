@@ -14,14 +14,14 @@ No repositório existem 2 aplicativos:
 
 
 #Divisão de tarefas
-Guilherme Saad:
-- Interfaces gráficas dos dois aplicativos;
-- pag Sobre;
-- Cadastro de MU;
-- Modelagem da máquina de estados (MU.cs linha 88).
+- Guilherme Saad:
+   - Interfaces gráficas dos dois aplicativos;
+   - pag Sobre;
+   - Cadastro de MU;
+   - Modelagem da máquina de estados (MU.cs linha 88).
 
-Marco Túllio:
-- pag Dashboard;
-- Lógica de redes no envio e recebimento de pacotes;
-- Aplicativo de recebimento completo;
-- Uso de treads no envio (1 thread p/ cada MU)
+- Marco Túllio:
+   - pag Dashboard;
+   - Lógica de redes no envio e recebimento de pacotes;
+   - Aplicativo de recebimento completo;
+   - Uso de treads no envio (1 thread p/ cada MU)
